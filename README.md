@@ -10,32 +10,37 @@ A comprehensive event management web application built with Django that allows u
 
 ### 🎯 Event Registration Form
 
-<img width="1910" height="731" alt="Screenshot 2025-09-24 123745" src="https://github.com/user-attachments/assets/c6e7c37e-42a5-4987-a3ad-bf89fa5da884" />
+<img width="1919" height="828" alt="Screenshot 2025-09-24 115558" src="https://github.com/user-attachments/assets/7c382d81-7e2d-4e10-9ccd-36cb1cda9d41" />
+
 
 
 
 ### ✅ Event Registration Success Page
 
-<img width="1919" height="298" alt="Screenshot 2025-09-24 123806" src="https://github.com/user-attachments/assets/16fffb71-e6b1-4e29-adf4-c8b2a13968ff" />
+<img width="1919" height="298" alt="Screenshot 2025-09-24 123806" src="https://github.com/user-attachments/assets/8a5fcca0-d5e3-409f-a0ac-75092b122df3" />
+
 
 ### ➕ Admin Panel - Adding Events
+<img width="1916" height="637" alt="Screenshot 2025-09-24 123839" src="https://github.com/user-attachments/assets/c7510cc3-3ac3-4eaf-ac38-3005695bf180" />
 
-<img width="1916" height="637" alt="Screenshot 2025-09-24 123839" src="https://github.com/user-attachments/assets/250e8a8b-1028-4e8b-a2f6-be60402044e4" />
 
 
 ### 📋 Admin Panel - List of Events
 
-<img width="1919" height="680" alt="Screenshot 2025-09-24 123917" src="https://github.com/user-attachments/assets/0c5eef75-228d-4fa6-8401-f91a48582cf6" />
+<img width="1919" height="680" alt="Screenshot 2025-09-24 123917" src="https://github.com/user-attachments/assets/ab23608e-37ae-476b-81b8-41ae32f9aa50" />
+
 
 ### 📝 Admin Panel - Managing Registrations
 
-<img width="1916" height="467" alt="Screenshot 2025-09-24 123945" src="https://github.com/user-attachments/assets/406bd9d7-e663-4d3b-bf31-1df02a9edf4f" />
+<img width="1916" height="467" alt="Screenshot 2025-09-24 123945" src="https://github.com/user-attachments/assets/6cdc284f-65d0-4fad-b795-c813bcda3fa3" />
+
 
 
 
 ### 🔐 Admin Login Page
 
-<img width="1167" height="591" alt="Screenshot 2025-09-24 124010" src="https://github.com/user-attachments/assets/c62799b6-bba1-4396-8fdd-e94828ade68f" />
+<img width="1167" height="591" alt="Screenshot 2025-09-24 124010" src="https://github.com/user-attachments/assets/fc4bcb63-1c59-4421-89b9-67d1e6c558c8" />
+
 
 
 
