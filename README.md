@@ -1,4 +1,4 @@
-# Django Event Registration System
+#  Event Registration System Using Django
 
 A comprehensive event management web application built with Django that allows users to register for events and provides administrators with powerful tools to manage registrations.
 
